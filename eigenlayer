@@ -5,7 +5,7 @@ eigenlayer
 install go
 
 
-sudo apt update
+date
 
 sudo apt upgrade
 

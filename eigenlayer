@@ -69,6 +69,10 @@ nano operator.yaml
 
 0xc81d3963087Fe09316cd1E032457989C7aC91b19
 
+Top-Down Mobile Battle Royale game developed by 
+@FLGstudio
+. Building on Immutable. Free to download on iOS & Android 📲 http://bit.ly/play-blast | 
+@corposnfts
 eigenlayer operator register operator.yaml
 
 eigenlayer operator status operator.yaml

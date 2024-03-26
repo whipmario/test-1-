@@ -10,8 +10,7 @@ cd /usr/local/
 
 echo $PATH
 
-sudo nano $HOME/.profile
-
+sudo nano $HOME/.p
 export PATH=$PATH:/usr/local/go/bin
 
 source .profile

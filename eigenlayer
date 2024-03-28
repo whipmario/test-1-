@@ -11,11 +11,7 @@ cd /usr/local/
 echo $PATH
 
 sudo nano $HOME/.p
-export PATH=$PATH:/usr/local/go/bin
-
-source .profile
-
-cat $HOME/.profile
+export PATH=$PATH:/usr/local/go/bi
 
 apt install golang-go
 

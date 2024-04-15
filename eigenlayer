@@ -10,7 +10,8 @@ cd /usr/local/
 echo $PATH
 
 sudo nano $HOME/.p
-export PATH=$PATH:/usr/local/go/bi
+export PATH=$PATH:/usr/local/go/b
+dscavn hfjd hfhjd 
 
 apt install golang-go
 

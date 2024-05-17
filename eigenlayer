@@ -1,4 +1,5 @@
-eigenlayer 
+eigenlayer = false
+scamlayer = true
 
 
 ----------------------------------------------------------------

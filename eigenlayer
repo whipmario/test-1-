@@ -77,10 +77,6 @@ cd ~
 
 git clone https://github.com/Layr-Labs/eigenda-operator-setup.git
 
-cd eigenda-operator-setup
-
-nano .env
-
 mkdir -p $HOME/.eigenlayer/eigenda/logs
 mkdir -p $HOME/.eigenlayer/eigenda/db
 

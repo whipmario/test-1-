@@ -13,6 +13,11 @@ echo $PATH
 sudo nano $HOME/.p
 export PATH=$PATH:/usr/local/go/b
 dscavn hfjd hfhjd 
+Total Diamonds Collected
+260
+Boxes Earned
+5
+Current Streak
 
 apt install golang-go
 

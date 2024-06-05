@@ -9,8 +9,7 @@ Engage with our c all that the network has to offer, and emerge w
 cd /usr/local/
 
 
-sudo nano $HOME/.p
-export PATH=$PATH:/usr/local/go/b
+sudo nano $HOME/.PATH:/usr/local/go/b
 dscavn hfjd hfhjd 
 Total Diamonds Collected
 260

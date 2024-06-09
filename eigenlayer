@@ -74,9 +74,7 @@ Top-Down Mobile Battle Royale game developed by
 @corposnfts
 eigenlayer operator register operator.yaml
 
-eigenlayer operator status operator.yaml
-
-cd ~
+eigenlayer operator status operator.yam
 
 git clone https://github.com/Layr-Labs/eigenda-operator-setup.git
 

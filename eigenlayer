@@ -82,9 +82,6 @@ eigenlayer operator status operator.yam
 
 git clone https://github.com/Layr-Labs/eigenda-operator-setup.git
 
-mkdir -p $HOME/.eigenlayer/eigenda/logs
-mkdir -p $HOME/.eigenlayer/eigenda/db
-
 ./run.sh opt-in
 
 docker compose up -d
